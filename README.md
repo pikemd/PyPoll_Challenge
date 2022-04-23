@@ -4,6 +4,8 @@
 
 ### Purpose of this project to sort through the data and write code that would show the election results and print them out to a seperate text file.
 
+![election_analysis - Notepad](https://user-images.githubusercontent.com/101365965/164938828-7ba9b92f-cfb9-419b-b168-22d0c6e77e39.png) 
+
 ## Election Audit Results
 - There was a total of 369,711 votes total in this congressional election.
 - Jefferson: 10.5% (38,855)
@@ -17,3 +19,5 @@
 
 ## Election Audit Summary
 There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
+
+Text file is located in resources.
