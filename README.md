@@ -8,9 +8,8 @@
 - There was a total of 369,711 votes total in this congressional election.
 - Jefferson 38,855 for a total 10.5%
 - Denver 306,055 for a total of 82.8%
-- Arapahoe 24,801 for a total of 6.7%
-    
-- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-- Which county had the largest number of votes?
+- Arapahoe 24,801 for a total of 6.7%    
+- As you can see with the numbers and percentages of the total Denver had the largest number of votes.
+- 
 - Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 - Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
