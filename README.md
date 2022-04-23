@@ -18,6 +18,6 @@
 - According to the data you can see that Diana DeGette won the vote. Diana had 272,892 votes, which was 73.8% of the total votes.
 
 ## Election Audit Summary
-This script can be used for any election, doesn't matter if it is for canidates and counties or two other items. You would be able to modifying the script where it says canidate and county. You can change these areas to the new areas you would like. Such as canidate could be turned into country and county into continent.
+This script can be used for any election, doesn't matter if it is for candidates and counties or two other items. You would be able to modifying the script where it says candidate and county. You can change these areas to any two new areas you would like as long as they are related. So you could use this for votes in a county fair related to the dessert contest. The first category could be the type of dessert such as cake, pie, muffins, or cupcake which could take place for the county in current code. Your favorite one in your said category such as the red velvet cake, German chocolate cake, carrot cake, or wedding cake could take place for the candidate.
 
 Text file is located in resources.
