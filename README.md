@@ -15,4 +15,5 @@
 - Raymon Anthony Doane: 3.1% (11,606)
 - According to the data you can see that Diana DeGette won the vote. Diana had 272,892 votes, which was 73.8% of the total votes.
 
-### Election Audit Summary
+## Election Audit Summary
+There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
