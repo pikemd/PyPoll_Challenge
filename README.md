@@ -18,6 +18,6 @@
 - According to the data you can see that Diana DeGette won the vote. Diana had 272,892 votes, which was 73.8% of the total votes.
 
 ## Election Audit Summary
-There is a statement to the election commission that explores how this script can be used for any election, with two examples for modifying the script.
+This script can be used for any election, doesn't matter if it is for canidates and counties or two other items. You would be able to modifying the script where it says canidate and county. You can change these areas to the new areas you would like. Such as canidate could be turned into country and county into continent.
 
 Text file is located in resources.
